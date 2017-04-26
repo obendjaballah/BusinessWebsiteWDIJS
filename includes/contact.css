@@ -1,0 +1,74 @@
+body{
+	padding-top: 70px ;
+}
+
+.big{
+	padding-top: 10px ;
+	text-align: 10px ;
+	color: black ;
+}
+
+.my-jumbo{
+	height: 80px ;
+	padding-top: 10px ;
+	width: 100% ;
+	background-color: lightblue;
+}
+
+.row input{
+    width: 100%;
+	border: none;
+	border-bottom: grey 1px solid; 
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+.row textarea{
+	width: 100%
+	border: black 10px solid; 
+    border-radius: 5px;
+
+}
+
+
+
+.myselecter{
+	width: 100%;
+	border: none;
+	border-bottom: grey 1px solid; 
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+
+}
+.my-button{
+	font-size: 20px ;
+	width: 100px !important;
+
+}
+
+.my-button-color{
+	color: black ;
+}
+
+.well{
+	border-radius: 0px ;
+	padding: 10px ;
+	text-align: center;
+	background-color:  rgba(0, 0, 0, 0.4) ;  
+}
+
+.row iframe{
+	height: 300px ;
+}
+
+.row form-group{
+	padding: 100px ;
+	background-color: red;
+}
+
+input.btn-primary {
+  	margin-top: 15px;
+  	font-size: 20px ;
+	width: 100px !important;
+	text-align: center;
+}
