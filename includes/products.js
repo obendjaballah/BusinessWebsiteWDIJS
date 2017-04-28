@@ -1,7 +1,7 @@
 // JavaScript Document
-$(document).ready(function() {
-"use strict";
-	$('.thumbnail').click(function(){
+$(document).ready(function(){
+	"use strict";
+	$('.more').click(function(){
       $('.modal-body').empty();
   	var title = $(this).parent('a').attr("title");
   	$('.modal-title').html(title);
